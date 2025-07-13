@@ -39,7 +39,7 @@ This duplication happened due to a temporary Git configuration mismatch during s
 - **CSS3**
 - **JavaScript (ES6+)**
 - **Vercel** (for deployment)
-- **Movie API** (e.g., OMDB or TMDB)
+- **Movie API** (OMDB)
 
 ---
 
