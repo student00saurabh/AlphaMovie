@@ -6,10 +6,10 @@ import PropTypes from 'prop-types'
 function InputBox ({ handlerChange = () => {}, val }) {
   return (
     <section className='search-container'>
-      <div className='icon-search'>
-        <img src={searchIcon} className='icon' alt='Icon search' />
-      </div>
-
+        <div className='icon-search'>
+          <img src={searchIcon} className='icon' alt='Icon search' />
+        </div>
+        
       <input
         onChange={handlerChange}
         className='input'
@@ -19,6 +19,7 @@ function InputBox ({ handlerChange = () => {}, val }) {
         autoFocus
         required
       />
+
     </section>
   )
 }
