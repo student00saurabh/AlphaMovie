@@ -1,4 +1,7 @@
 {
+  "scripts": {
+  "build": "cross-env NODE_OPTIONS=--openssl-legacy-provider react-scripts build"
+},
   "name": "moviesearch-luan0ap",
   "version": "0.1.0",
   "private": true,
