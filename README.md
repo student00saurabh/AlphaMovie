@@ -19,7 +19,7 @@ This duplication happened due to a temporary Git configuration mismatch during s
 
 ## 🚀 Live Demo
 
-👉 [https://alphamovie.vercel.app](https://alphamovie.vercel.app)
+👉 [https://alphamovie.vercel.app](https://alphamovies.vercel.app/)
 
 ---
 
